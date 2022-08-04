@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#React form validation
+
+this is just frontend validation by Yup validation schema and react-form with only 2 input
 
 ## Getting Started
 
